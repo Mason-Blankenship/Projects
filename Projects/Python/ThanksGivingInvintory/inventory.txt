@@ -1,0 +1,31 @@
+ham: 3
+yams: 9
+green beans: 6
+peas: 2
+pumpkin: 13
+mashed potatoes: 3
+sugar: 2
+cranberry sauce: 9
+pie filling: 8
+gravy mix: 5
+cookie mix: 4
+cooking oil: 3
+turkey: 9
+corn: 21
+carrots: 6
+fruit: 5
+milk: 12
+potatoes: 16
+flour: 16
+pie crust: 12
+stuffing mix: 11
+bread mix: 10
+cake mix and icing: 4
+mac n cheese: 3
+canned meats: 8
+peanut butter: 6
+canned soup: 15
+quick meals: 2
+boxed meal kits: 3
+choco: 5
+ding: 8

@@ -1,0 +1,17 @@
+input{
+    display:inline
+}
+table,th{
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+
+tr:nth-child(even){
+    background-color: rgb(209, 243, 255);
+}
+
+td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}

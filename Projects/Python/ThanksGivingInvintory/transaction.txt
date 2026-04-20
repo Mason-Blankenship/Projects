@@ -1,0 +1,4 @@
+ItemName: qty | month-day-year | time-of-day/am-pm
+choco: 5 | Nov-11-2025 | 02:00 PM
+Nov-14-2025 | 02:40 PM | UPDATE | yams - 9
+Nov-14-2025 | 02:44 PM | UPDATE | ding - 8
